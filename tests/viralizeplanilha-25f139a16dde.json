@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "viralizeplanilha",
+  "private_key_id": "25f139a16ddefee0f494972f86cd4ddf06a96ec6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCV+rCHw5XVU9gx\nTaXVznIiWKX3v80PiiyzMBglfoAn3CaOW879bKwgmaB32PYXPQl5iA3KsCn0gdeE\nH+Q+WZOTShGu8HC+s+RaLJP2Ywl9mLfsHZRwfv4MUstM1d32O7P+szFm+7O8bgyP\n8K3uBPMil6alGtJue2QU8CuYTQ7zYNq0aL8RLszteba2doUoYdOOC/tqH6+VtGpi\nPo8Pc+RBDkEZefII1L9Q0zW7kgLsfRwZjZpmMTz7IIL363FB1pLfU9oDOV/hChTj\n9swq9SRQfTe2N0IwXuvsylcXafaCULpT5XVr3DCKl1G6YWMKadoFcksWgDW6lv4C\nY5MZ9qMDAgMBAAECggEADwdCvyfrEKhJJo+YSXdZWnW1k8DFZIQ8/GuaT8+AOf5G\nYsdyU1SbXtzmBnxYFHYKSAJJF4FVgumr1dJ4RYMmVYD7iqMPORy/igWjgfHklpBC\nBcflAuzGuidltbpMdor++0urbJ1WIlCIs7ezRgF694Fosmygn29/1NVIGQfHsr1f\nejKZ0wlCh2wz+yGfQRJtsJx3FitOUwTjBkYsKn+To6e3kq4klt7nplNwCmBaT2lf\ne3nqoHptp40uxDFSN3utpS/EMKtVzeeSF04Ukkfkn/xUdSilfyWSIg47D54imveN\nAnBhYVnIPa36zFVZd7SFRJL/UJlui3S1lZkuRHsBkQKBgQDOexPLwR/Kh84PjsH/\nI4IwIWYX1UZmmBYTO5DXL9V7zUURgO/LHIdAmM1BaFbbz2Gs1SALlur6FuBPGesS\nqVfi4b0f8t0vsS5HjF63HA9erzWRxa2NKGBm8qnAt3KL0HIg8qUtvHqZei+LJARi\nIeQGgrEnYaKKn2fqAmaQogRaWQKBgQC58rEk1cQt6hEIDaQiveX2fsTaZVA9yjsg\npZlQJzODB45GJsKMtOOO9zYBgjCjwDk4vHq64kHF6d7joD/RSmqbN9AiP3hGv6bJ\nIwnguq02LZSpMfJtqWtZNsU1Cm46RjFmRhqXOHA5fMTZF4voWNUoQXKr4527IesD\nObEng/FEuwKBgQCEtNPXS+tr1vbYRu9mVOMSnhSo0rlprOvbNphzxVmXNSnkAxOb\nXl2LZend1PqmUdY8J8ptyHSDgfpuvIC6QL6soltUUlpYka7l61DgrRcvyrpKU1uk\n8sNqxyHVK9JiC/meNXV2PMIrLD2sVty+WXvdt1e2sOiv4Z3+58YVxRu5GQKBgQCy\nddvRkF/R+R0Tb5Qhy8NTCWOAf0+9ncOVl5lGtfjYPn4rkbOSO2FSqqvoUry/zBKf\nAzV++vtJKSXDrN7SzOr3wV8+H1AeBn3Z+IjYaBEpOCG/KLKU0M64NrqaJ0KXJxru\nH0YR8Ba09awu9kxOWENreTTHB5MwMGNPGyWM2TLLVQKBgF6CX9Gz97KBLswCzkgu\nzEXsrsWW3v+5EX5Ln+o+IXfYfPIYUYNmMOaBdV78MKRcKE6+7Xb83Q/8rgWCR3KV\nNV/yFl8YcZjORcl6iweJrVr58VHlo6Vsx21t9dIap9W/uL+ZzMEMB/DVOZNblR/7\nYHJK2lRs5sQEzJ0jAo6+S3TP\n-----END PRIVATE KEY-----\n",
+  "client_email": "api-planilhavira@viralizeplanilha.iam.gserviceaccount.com",
+  "client_id": "103567241806713937879",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/api-planilhavira%40viralizeplanilha.iam.gserviceaccount.com"
+}

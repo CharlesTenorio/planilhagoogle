@@ -115,6 +115,3 @@ venv.bak/
 .venv/
 .idea/vcs.xml
 .idea/planilha_google.iml
-planilha.py
-requirements.txt
-viralizeplanilha-25f139a16dde.json
