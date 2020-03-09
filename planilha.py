@@ -13,8 +13,12 @@ class Planinha():
         self.id_planilha = id_planilha
         self.wks = self.gc.open_by_key(self.id_planilha)
 
-    def lista_lead(self):
+    def get_lista_lead(self):
         '''Retorna uma lista de todos os intens da planinha'''
         worksheet = self.wks.get_worksheet(0)
         list_of_lists = worksheet.get_all_values()
         return list_of_lists
+
+    def get_qtd_registro(self):
+        cont = len(self.get_lista_lead())
+        return cont
