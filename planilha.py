@@ -6,7 +6,7 @@ class Planilha():
     def __init__(self, id_planilha):
 
         self.scope =['https://spreadsheets.google.com/feeds']
-        self.credentials = ServiceAccountCredentials.from_json_keyfile_name('viralizeplanilha-25f139a16dde.json'
+        self.credentials = ServiceAccountCredentials.from_json_keyfile_name('g-viralize-ee853d25a650.json'
                                                                           , self.scope)
         self.qtd_registros = 0
         self.gc = gspread.authorize(self.credentials)
