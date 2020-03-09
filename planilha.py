@@ -1,7 +1,7 @@
 import gspread
 from oauth2client.service_account import ServiceAccountCredentials
 
-class Planinha():
+class Planilha():
     '''Lista dados de um planilha do google docs'''
     def __init__(self, id_planilha):
 
